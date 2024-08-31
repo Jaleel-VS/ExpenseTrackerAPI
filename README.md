@@ -11,8 +11,8 @@ This project is an Expense Tracker API built with .NET 8, implementing Clean Arc
 ## Setup
 
 1. Clone the repository:    
-    1.1 git clone [your-repo-url]
-    1.2. cd ExpenseTrackerAPI
+    - git clone [\[repo-url\]](https://github.com/Jaleel-VS/ExpenseTrackerAPI)
+    - cd ExpenseTrackerAPI
 2. Update the connection string in `appsettings.json` to point to your PostgreSQL database.
 3. Run database migrations:
 dotnet ef database update
