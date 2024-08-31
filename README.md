@@ -18,6 +18,7 @@ This project is an Expense Tracker API built with .NET 8, implementing Clean Arc
 dotnet ef database update
 4. Run the application:
 dotnet run
+5. Access Swagger UI at `http://localhost:5000/swagger/index.html`
 ## Features
 
 - User authentication
